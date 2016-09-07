@@ -1,0 +1,5 @@
+.DS_Store
+config.codekit
+*.sublime-project
+*.sublime-workspace
+*.sketch
