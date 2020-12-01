@@ -25,14 +25,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/_ignores/greencare-email-signatures.sketch": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/greencare-email-signatures.sketch",
-		"oF": 0
-		},
 	"/_ignores/greencare-email-signatures.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
@@ -247,6 +239,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/jdftx/jdftx-1.html",
+		"oF": 0
+		},
+	"/jdftx/patrice/patrice-jdftx-1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/jdftx/patrice/patrice-jdftx-1.html",
 		"oF": 0
 		},
 	"/kelly/kelly-1.html": {
